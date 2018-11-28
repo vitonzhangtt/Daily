@@ -3,6 +3,9 @@
 1.RxSwift foundation and basic components: part 1
 <br/>https://medium.com/@navdeepsingh_2336/rxswift-foundation-and-basic-components-36f7db186e3e
 
+2.RxSwift foundation part 2: Observables and Subjects
+<br/>https://medium.com/@navdeepsingh_2336/rxswift-foundation-part-2-observables-and-subjects-b143f983e757
+
 A taste of MVVM and Reactive paradigm
 <br/>https://medium.com/flawless-app-stories/a-taste-of-mvvm-and-reactive-paradigm-5288a819cca1
 
